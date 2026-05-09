@@ -18,5 +18,10 @@ backend dev. go mostly, c# sometimes.
 
 Go · C# · PostgreSQL · Redis · Kafka · Docker · Kubernetes
 
+---
+
+**contacts**
+
+[telegram](https://t.me/digitalabuse) · yuzkov.a@yandex.ru
 
 ![](paramedic.gif)
