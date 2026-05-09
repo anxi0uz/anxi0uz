@@ -1,5 +1,3 @@
-![](data04.gif)
-
 ### hey, i'm Alexey
 
 backend dev. go mostly, c# sometimes.
@@ -19,3 +17,6 @@ backend dev. go mostly, c# sometimes.
 **stack**
 
 Go · C# · PostgreSQL · Redis · Kafka · Docker · Kubernetes
+
+
+![](paramedic.gif)
