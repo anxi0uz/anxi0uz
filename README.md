@@ -24,4 +24,4 @@ Go · C# · PostgreSQL · Redis · Kafka · Docker · Kubernetes
 
 [telegram](https://t.me/digitalabuse) · yuzkov.a@yandex.ru
 
-![](paramedic.gif)
+![](sbe.gif)
