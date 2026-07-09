@@ -10,6 +10,8 @@ backend dev. go mostly, c# sometimes.
 
 **projects**
 
+[devstash](https://github.com/anxi0uz/Devstash) — self-hosted project workspace. ideas, decisions, docs, board, activity
+
 [logiflow](https://github.com/anxi0uz/logiflow) — logistics platform. websocket tracking, osrm routing, k3s deploy → [demo](https://logiflowadvanced.online)
 
 [sentinel](https://github.com/anxi0uz/sentinel) — fraud detection. kafka pipeline, rule-based scoring, worker pool
