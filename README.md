@@ -4,30 +4,34 @@
 
 ### hey, i'm Alexey
 
-backend dev. go mostly, c# sometimes.
+backend developer. building services and developer tools with Go and Python.
 
 ---
 
-**projects**
+### projects
 
-[devstash](https://github.com/anxi0uz/Devstash) — self-hosted project workspace. ideas, decisions, docs, board, activity
+[pyfro](https://github.com/anxi0uz/pyfro) — opinionated FastAPI project generator. async sqlalchemy, postgres, redis, auth, alembic, structured logging and docker
 
-[logiflow](https://github.com/anxi0uz/logiflow) — logistics platform. websocket tracking, osrm routing, k3s deploy → [demo](https://logiflowadvanced.online)
+[gofro](https://github.com/anxi0uz/gofro) — project generator for Go. like `dotnet new`, but opinionated
 
-[sentinel](https://github.com/anxi0uz/sentinel) — fraud detection. kafka pipeline, rule-based scoring, worker pool
+[devstash](https://github.com/anxi0uz/Devstash) — self-hosted project workspace. ideas, decisions, docs, board and activity
 
-[gofro](https://github.com/anxi0uz/gofro) — cli scaffolding for go projects. like `dotnet new` but for go
+[logiflow](https://github.com/anxi0uz/logiflow) — logistics platform. websocket tracking, osrm routing and k3s deployment → [demo](https://logiflowadvanced.online)
 
----
-
-**stack**
-
-Go · C# · PostgreSQL · Redis · Kafka · Docker · Kubernetes
+[sentinel](https://github.com/anxi0uz/sentinel) — real-time fraud detection. kafka pipeline, rule-based scoring and worker pool
 
 ---
 
-**contacts**
+### stack
 
-[telegram](https://t.me/digitalabuse) · yuzkov.a@yandex.ru
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,cs,dotnet,fastapi,postgres,redis,kafka,docker,kubernetes,linux,nginx,prometheus,grafana,git,githubactions&perline=8&theme=dark" />
+</p>
+
+---
+
+### contacts
+
+[telegram](https://t.me/digitalabuse) · [yuzkov.a@yandex.ru](mailto:yuzkov.a@yandex.ru)
 
 ![](paramedic.gif)
