@@ -32,6 +32,6 @@ backend developer. building services and developer tools with Go and Python.
 
 ### contacts
 
-[telegram](https://t.me/digitalabuse) · [yuzkov.a@yandex.ru](mailto:yuzkov.a@yandex.ru)
+[telegram](https://t.me/swagcalculator) · [yuzkov.a@yandex.ru](mailto:yuzkov.a@yandex.ru)
 
 ![](paramedic.gif)
