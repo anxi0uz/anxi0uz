@@ -10,6 +10,8 @@ backend developer. building services and developer tools with Go and Python.
 
 ### projects
 
+[lectio](https://github.com/anxi0uz/lectio) — semantic search for video lectures. whisper, bge-m3 and qwen3 squeezed into a 6 gb gpu, hybrid pgvector + full-text search → [article](https://dev.to/anxi0uz/how-i-squeezed-three-models-into-6-gb-of-vram-3504)
+
 [pyfro](https://github.com/anxi0uz/pyfro) — opinionated FastAPI project generator. async sqlalchemy, postgres, redis, auth, alembic, structured logging and docker
 
 [gofro](https://github.com/anxi0uz/gofro) — project generator for Go. like `dotnet new`, but opinionated
